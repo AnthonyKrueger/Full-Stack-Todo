@@ -1,0 +1,8 @@
+- Init NPM
+- Install Express and Mongoose
+- Create config for mongoDb connection
+- Create server.js
+- Link config, make express server
+- Create model for Todos
+- Build routes for creating, viewing, and deleting todos
+- Proxy react for development
